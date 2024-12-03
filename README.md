@@ -27,11 +27,11 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
   <div style="text-align: left;"> 
-    <a href="https://github.com/eunbij" > 
+    <a href="https://github.com/eunbij" style="text-decoration-line: none;"> 
       <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"> </a>
-    <a href="https://behance.net/eunbij"> 
+    <a href="https://behance.net/eunbij" style="text-decoration-line: none;"> 
       <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=Behance&logoColor=white"> </a>
-    <a href="https://instagram.com/ebdocu"> 
+    <a href="https://instagram.com/ebdocu" style="text-decoration-line: none;"> 
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"> </a>
     <a href=mailto:eunbij623@gmail.com> 
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eunbij623@gmail.com"> </a>
